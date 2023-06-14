@@ -1,0 +1,53 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(182,228,224,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(182,228,224,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(182,228,224,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(182,228,224,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(66,66,81,1.00) 97.41%,rgba(255,0,0,1.00) 100%,rgba(17,17,55,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(66,66,81,1.00) 97.41%,rgba(255,0,0,1.00) 100%,rgba(17,17,55,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(66,66,81,1.00) 97.41%,rgba(255,0,0,1.00) 100%,rgba(17,17,55,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(66,66,81,1.00) 97.41%,rgba(255,0,0,1.00) 100%,rgba(17,17,55,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFED00;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #000000;
+}
+#headingOne1 .mb-0 a {
+    background-color: #00FFCB;
+}
+#headingTwo1 .mb-0 .collapsed {
+    background-color: #70E7A2;
+}
+#headingThree1 .mb-0 .collapsed {
+    background-color: #A6DDAF;
+}
+#headingThree1 .mb-0 .collapsed {
+    background-color: #8EDCA9;
+    color: #000000;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #000000;
+}
+#headingOne1 .mb-0 a {
+    color: #000000;
+}
+
+
+
+
+
+
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(215,225,233,1.00) 0%,rgba(22,29,86,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(215,225,233,1.00) 0%,rgba(22,29,86,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(215,225,233,1.00) 0%,rgba(22,29,86,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(215,225,233,1.00) 0%,rgba(22,29,86,1.00) 100%);
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+    background-color: #C8BEBE;
+}
